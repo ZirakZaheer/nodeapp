@@ -1,0 +1,28 @@
+    Future Upgrade (sms software);
+
+    Searching by:
+
+    Service centre location (admin panel)---- username
+    nationality
+    Airplane/Car
+    Type of Relatives
+    Form number
+    Age Group
+    what servive he takes.
+    Staff Name
+    Date/Time
+
+    (the user can change report for sometime afterwards no only admin)
+    Time taken to complete the survey (for admin control)
+
+    22 Visitors for the day (counter)
+
+
+where are you? --------> Then on to dashboard --->
+
+
+Admin Hierarchy:
+
+MAIN Admin  --- > (how many times supervisor checkes0) , services, new question for surveys.
+Supervisor, (5-6) ---> short report ----> summary updates
+users.
